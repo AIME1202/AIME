@@ -1,3 +1,3 @@
-function sayhello71() {
+function (saygoodbye)  {
   alert('Goodbye!');
 }
