@@ -3,4 +3,4 @@ function sayhello65(){
   alert('Hello,'+who65+'!');
 }
 function taro65(){
-  who65
+  who65='太郎';
