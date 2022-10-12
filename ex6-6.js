@@ -7,7 +7,7 @@ function taro66() {
 }
 function taro66() {
   who65 = '太郎';
-  alert('came' +who66);
+  alert(who66+'が来た');
 }
 
 function hanako66() {
@@ -15,6 +15,6 @@ function hanako66() {
 }
 function hanako66() {
   who65 = '花子';
-  alert('came' +who66);
+  alert(who66+'が来た');
 }
 
