@@ -4,5 +4,5 @@ document.getElementById('logo').src= './image/城西大学4.jpg';
 }
 function imgchange2()
 {
-document.getElementById('logo').src='./image/城西大学3.png';
+document.getElementById('logo').src='./image/城西大学3.jpg';
 }
