@@ -1,4 +1,4 @@
-function imgchange()
+function imgchange1()
 {
 document.getElementById('logo').src= './image/城西大学4.jpg';
 }
