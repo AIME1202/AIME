@@ -12,4 +12,5 @@ function hyoji() {
       document.timer.moji.value="";}} 
       function startfnc() { 
         //関数hyoji()を1000ミリ秒間隔で呼び出す
-        setlnterval("hyoji()",1000);} 
+        setInterval("hyoji()",1000);} 
+
