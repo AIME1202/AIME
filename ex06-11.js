@@ -19,3 +19,8 @@ function startfnc() {
 //関数hyouji()を1000ミリ秒間隔で呼び出す
 setInterval("hyouji()",1000); }
 
+const str = 'Mozilla';
+console.log(str.substr(1, 2));
+// expected output: "oz"
+console.log(str.substr(2));
+// expected output: "zilla"
