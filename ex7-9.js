@@ -1,15 +1,15 @@
 function nazo4(){
 if(document.getElementById('answer4').value=='夢'){
- alert('あたり！');
+ alert('当たり！');
 }
 else if(document.getElementById('answer4').value=='ゆめ'){
- alert('あたり！');
+ alert('当たり！');
 }
 else if(document.getElementById('answer4').value=='ユメ'){
- alert('あたり！');
+ alert('当たり！');
 }
 else if(document.getElementById('answer4').value=='yume'){
- alert('あたり！');
+ alert('当たり！');
 }
 else{
  alert('はずれ!');
