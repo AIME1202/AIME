@@ -1,5 +1,5 @@
 function add2() {
-var x = document.getElementById('shincho').value;
-var y = document.getElementById('taijuu').value;
-alert(x/(y*y));
+var a = document.getElementById('shincho').value;
+var b = document.getElementById('taijuu').value;
+alert(a/(b*b));
 }
